@@ -1,0 +1,171 @@
+.buttonscontainer {width: 750px;}
+
+.buttons a {color: #330099;
+background-color: #99CCFF;
+padding-left: 10px;
+display: block;
+border-bottom: 1px solid #000099;
+font: 12px Arial, sans-serif;
+font-weight: bold;
+text-decoration: none;
+text-align: center;}
+
+.buttons a:hover {background-color: #330099;
+color: #CCFFFF;
+text-decoration: none;}
+
+.Menu {color: #CCFFFF;
+background-color:#330099;
+padding: 2px;
+padding-left: 6px;
+display: block;
+border-bottom: 1px solid #000099;
+font: 15px Arial, sans-serif;
+font-weight: bold;
+text-decoration: none;
+text-align: left;}
+
+.bg { background-color: #0000CC; }
+
+.bg1 { background-color: #EEEEEE; }
+
+.bg2 { background-color: #003366; }
+
+.BabyBlue { 
+	color: #99CCFF; 
+	font-family: Arial;
+	}
+	
+.LightBlue { 
+	color: #99FFFF; 
+	font-family: Arial;
+	}
+
+.DarkBlue { 
+	color: #330099; 
+	font-family: Arial;
+	}
+
+.BGBabyBlue { 
+	background-color: Aliceblue;
+	}
+.BGWhite { 
+	background-color: White;
+	}
+
+.MiniText {
+	font-size: 80%;
+	}
+
+.SmallText {
+	font-size: 90%;
+	}
+
+.MidText {
+	font-size: 150%;
+	}
+	
+.NormalText {
+	font-size: 110%;
+	}
+
+.BigText { 
+	font-size: 250%;
+	}
+
+.Bold { 
+	font-weight: bold
+	}
+
+.Erreur {
+	color:Red;	
+}
+
+.Bordure {
+	border-color:#330099;
+	border-style:solid;
+	border-width:thin;
+	background: #99CCFF;
+	padding: 4px;
+	}
+
+.Bordure1 {
+	border-color:#330099;
+	border-width:thin;
+	background: Aliceblue;
+	}
+	
+.BordureTablePrint, .BordureTDPrint {
+		border-width:1pt;
+		border-style:solid;	
+		border-collapse:collapse;
+	}
+	
+.BordureTablePrint {
+	width:100%;
+}
+
+
+	
+.CellLength1 {
+	width:120px
+}
+
+.padding {
+	padding-left: 3px;
+	padding-right: 20px;
+	}
+
+.spaces {
+	padding-right: 6px;
+	}
+
+.CorporateLink a:link {color:#330099;
+	text-decoration:none;
+	}
+
+.CorporateLink a:visited {
+	color:#330099;
+	text-decoration: none;
+	}
+
+.CorporateLink a:hover {
+	color:#0000FF;
+	text-decoration: underline;
+	}
+
+.Button {
+	background-color: Lightsteelblue;
+	color: #330099; 
+	font: 16px Arial, sans-serif;
+	font-weight: bold;
+	}
+	
+.SmallButton {
+	background-color: Lightsteelblue;
+	color: #330099; 
+	font: 12px Arial, sans-serif;
+	font-weight: bold;
+	}
+
+.paddingTop {
+	padding-top: 10px;
+	}
+	
+.BoutonEmplacement {
+	text-align: right;
+	}
+	
+.underLine {
+	text-decoration:underline;
+	}
+	
+.ButtonWidth {
+	width:40px;
+	}
+	
+.ModelWidth {
+	width:70px;
+	}
+	
+
